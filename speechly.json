@@ -1,0 +1,14 @@
+{
+    "version": "0.0.6",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/speechly/cli/releases/download/v0.0.6/speechly_0.0.6_Windows_x86_64.zip",
+            "bin": [
+                "speechly.exe"
+            ],
+            "hash": "e321c0363bc01f2947cbafba9ec14d541a9d915aad5aa5693599db696b2f16a2"
+        }
+    },
+    "homepage": "https://www.speechly.com/",
+    "license": "MIT"
+}
