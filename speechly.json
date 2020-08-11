@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/speechly/cli/releases/download/v0.1.0/speechly_0.1.0_Windows_x86_64.zip",
+            "url": "https://github.com/speechly/cli/releases/download/v0.1.1/speechly_0.1.1_Windows_x86_64.zip",
             "bin": [
                 "speechly.exe"
             ],
-            "hash": "2605255489cce11801041d0318caba17999e78dc349c66795d92ca8c0cb195ea"
+            "hash": "9a3d2f5b7e2aae46814da8384457d97f306ece3b94f8674f0b45ebc24c579f5d"
         }
     },
     "homepage": "https://www.speechly.com/",
