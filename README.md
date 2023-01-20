@@ -1,39 +1,18 @@
 <div align="center" markdown="1">
-<a href="https://www.speechly.com/?utm_source=github&utm_medium=browser-client&utm_campaign=header">
-   <img src="https://d33wubrfki0l68.cloudfront.net/1e70457a60b0627de6ab966f1e0a40cf56f465f5/b4144/img/logo-speechly-colors.svg" height="48">
-</a>
 
-### Speechly is the Fast, Accurate, and Simple Voice Interface API for Web, Mobile and E‑commerce
+![speechly-logo-duo-black](https://user-images.githubusercontent.com/2579244/193574443-130d16d6-76f1-4401-90f2-0ed753b39bc0.svg#gh-light-mode-only)
+![speechly-logo-duo-white](https://user-images.githubusercontent.com/2579244/193574464-e682b2ce-dd48-4f70-88d4-a1fc5241fa47.svg#gh-dark-mode-only)
 
-[Website](https://www.speechly.com/?utm_source=github&utm_medium=browser-client&utm_campaign=header)
-&ensp;|&ensp;
+[Website](https://www.speechly.com/)
+&ensp;&middot;&ensp;
 [Docs](https://docs.speechly.com/)
-&ensp;|&ensp;
-[Discussions](https://github.com/speechly/speechly/discussions)
-&ensp;|&ensp;
-[Blog](https://www.speechly.com/blog/?utm_source=github&utm_medium=browser-client&utm_campaign=header)
-&ensp;|&ensp;
-[Podcast](https://anchor.fm/the-speechly-podcast)
-
----
+&ensp;&middot;&ensp;
+[Support](https://github.com/speechly/speechly/discussions)
+&ensp;&middot;&ensp;
+[Blog](https://www.speechly.com/blog/)
+  
 </div>
 
 # Scoop bucket
-Speechly scoops for Windows
 
-## About Speechly
-
-Speechly is a developer tool for building real-time multimodal voice user interfaces. It enables developers and designers to enhance their current touch user interface with voice functionalities for better user experience. Speechly key features:
-
-#### Speechly key features
-
-- Fully streaming API
-- Multi modal from the ground up
-- Easy to configure for any use case
-- Fast to integrate to any touch screen application
-- Supports natural corrections such as "Show me red – i mean blue t-shirts"
-- Real time visual feedback encourages users to go on with their voice
-
-| Example application | Description |
-| :---: | --- |
-| <img src="https://i.imgur.com/v9o1JHf.gif" width=50%> | Instead of using buttons, input fields and dropdowns, Speechly enables users to interact with the application by using voice. <br />User gets real-time visual feedback on the form as they speak and are encouraged to go on. If there's an error, the user can either correct it by using traditional touch user interface or by voice. |
+[Speechly CLI](https://github.com/speechly/cli) scoops for Windows
